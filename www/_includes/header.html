@@ -1,0 +1,17 @@
+<header id="header">
+
+  <span class="titlewrap">
+  <h1><span>{{ site.data.settings.title }}</span></h1>
+  </span>
+    
+  <nav>
+    {% for item in site.data.settings.menu %}
+      <a href="{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+    {% if page.req_authn %}
+      <a class="login" href="{{  }}">Login</a>
+    {% endif %}
+  </nav>
+  
+  
+</header>

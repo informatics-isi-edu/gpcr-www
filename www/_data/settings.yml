@@ -1,0 +1,43 @@
+#-------------------------------
+# General Site Settings
+
+title: GPCR Consortium
+description: Add description
+email: cristina@isi.edu
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: Home, url: 'http://gpcrconsortium.org/'}
+- {name: Demo, url: '/constructs/'}
+- {name: News, url: 'http://gpcrconsortium.org/?page_id=9'}
+- {name: Contact, url: 'http://gpcrconsortium.org/?page_id=4'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Add description'
+  #rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  #rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  Add main paragraph about site for home page.
+

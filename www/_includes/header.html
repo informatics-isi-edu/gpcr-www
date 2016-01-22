@@ -8,9 +8,6 @@
     {% for item in site.data.settings.menu %}
       <a href="{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
-    {% if page.req_authn %}
-      <a class="login" href="{{  }}">Login</a>
-    {% endif %}
   </nav>
   
   

@@ -5,7 +5,7 @@ permalink: pretty
 
 port: 8000
 
-exclude: ['favicon.jpg', 'favicon.ico', 'CNAME', 'index.html', 'about.html']
+exclude: ['favicon.jpg', 'favicon.ico', 'CNAME', 'about.html']
 
 sass:
   sass_dir: assets/css

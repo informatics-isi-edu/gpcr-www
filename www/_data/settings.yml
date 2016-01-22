@@ -8,10 +8,8 @@ email: cristina@isi.edu
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: Home, url: 'http://gpcrconsortium.org/'}
-- {name: Demo, url: '/constructs/'}
-- {name: News, url: 'http://gpcrconsortium.org/?page_id=9'}
-- {name: Contact, url: 'http://gpcrconsortium.org/?page_id=4'}
+- {name: Home, url: '/'}
+- {name: Browser, url: '/constructs/'}
 
 #-------------------------------
 # SEO Section

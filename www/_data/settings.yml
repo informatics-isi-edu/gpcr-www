@@ -9,7 +9,7 @@ email: cristina@isi.edu
 
 menu:
 - {name: Home, url: '/'}
-- {name: Browser, url: '/constructs/'}
+- {name: Explorer, url: '/data/'}
 
 #-------------------------------
 # SEO Section

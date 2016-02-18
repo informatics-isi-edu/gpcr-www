@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: GPCR Consortium
+title: GPCR
 description: Add description
 email: cristina@isi.edu
 
@@ -38,4 +38,3 @@ seo:
 
 blurb: >
   Add main paragraph about site for home page.
-

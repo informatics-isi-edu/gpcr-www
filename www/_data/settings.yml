@@ -2,14 +2,14 @@
 # General Site Settings
 
 title: GPCR
-description: Add description
+description: The GPCR Consortium is a not for profit entity formed to bring together industry and academic scientists to advance GPCR research for drug development.
 email: cristina@isi.edu
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
-menu:
-- {name: Home, url: '/'}
-- {name: Explorer, url: '/data/'}
+#menu:
+#- {name: Home, url: '/'}
+#- {name: Explorer, url: '/data/'}
 
 #-------------------------------
 # SEO Section

@@ -7,9 +7,9 @@ email: cristina@isi.edu
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
-menu:
-- {name: Explorer, url: '/'}
-- {name: Help, url: '/using-the-data-explorer/'}
+#menu:
+#- {name: Explorer, url: '/'}
+#- {name: Help, url: '/using-the-data-explorer/'}
 
 #-------------------------------
 # SEO Section

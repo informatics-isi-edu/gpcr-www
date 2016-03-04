@@ -1,0 +1,14 @@
+/* Customization styles for Chaise/Image Annotation ap */
+
+.navbar-brand span {
+  display: none;
+}
+
+.navbar-brand:after {
+  content: 'GPCR Data Explorer';
+}
+
+.navbar-inverse {
+  background-color: #363673;
+}
+  

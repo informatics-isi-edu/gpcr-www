@@ -17,7 +17,7 @@ email: cristina@isi.edu
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Add description'
+  description: 'The GPCR Data Explorer contains data generated during the process of GPCR structure determination.'
   #rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
   #rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
 
@@ -29,7 +29,7 @@ seo:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-#google-analytics-ua: UA-XXXXXX-X
+google-analytics-ua: UA-76441744-1
 
 #-------------------------------
 # About Section
@@ -37,4 +37,4 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  Add main paragraph about site for home page.
+  The GPCR Data Explorer contains data generated during the process of GPCR structure determination.

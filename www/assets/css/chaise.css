@@ -13,3 +13,16 @@
   background-color: #363673;
 }
   
+/****** Embed iFrames ******/
+
+.markdown-container .embed-block {
+    background: #f4f4f4;
+    padding: 10px;
+    margin: 10px 10px 10px 0px;
+    display: inline-block;
+}
+
+.markdown-container .embed-caption {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
